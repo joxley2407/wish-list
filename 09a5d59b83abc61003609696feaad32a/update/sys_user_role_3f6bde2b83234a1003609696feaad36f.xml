@@ -6,21 +6,21 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_429305_wish_list.user</name>
+        <name>x_429305_wish_list.wish_item_user</name>
         <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
-        <suffix>x_429305_wish_list.user</suffix>
+        <suffix>wish_item_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-27 12:42:54</sys_created_on>
-        <sys_id>d8e5d59b83abc61003609696feaad3f6</sys_id>
+        <sys_created_on>2024-07-28 12:25:17</sys_created_on>
+        <sys_id>3f6bde2b83234a1003609696feaad36f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_429305_wish_list.user</sys_name>
+        <sys_name>x_429305_wish_list.wish_item_user</sys_name>
         <sys_package display_value="Wish List" source="x_429305_wish_list">09a5d59b83abc61003609696feaad32a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">09a5d59b83abc61003609696feaad32a</sys_scope>
-        <sys_update_name>sys_user_role_d8e5d59b83abc61003609696feaad3f6</sys_update_name>
+        <sys_update_name>sys_user_role_3f6bde2b83234a1003609696feaad36f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-27 12:42:54</sys_updated_on>
+        <sys_updated_on>2024-07-28 12:25:17</sys_updated_on>
     </sys_user_role>
 </record_update>
